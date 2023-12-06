@@ -2,8 +2,7 @@
 
 The TornadoTracker App is designed to revolutionize how individuals receive tornado warnings. By leveraging the capabilities of machine learning with the AlexNet convolutional neural network, the app offers precise and timely tornado detection. Its primary aim is to analyze live weather radar images, identify potential tornado formations, and provide immediate, localized alerts. This proactive approach aims to enhance safety during severe weather conditions, especially during the night when the risk of undetected tornadoes is greatest. The TornadoTracker App is about empowering users with advanced warning, maximizing preparedness and response time for communities worldwide.
 
-<div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Tornadotrackerlogo.gif"> </div>
-![TornadoTrackerLogo](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Tornadotrackerlogo.gif)
+<div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Tornadotrackerlogo.png"> </div>
 
 ## Tornado Detection Challenge
 Tornadoes pose a significant threat to safety, especially when they strike unexpectedly. Current systems for tornado detection and warning are often inadequate, leading to delayed responses and increased risk, particularly at night. Our app aims to address these challenges head-on, offering a more effective solution.
