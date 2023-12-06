@@ -1,6 +1,5 @@
-# TornadoTracker🌪️
-
-The TornadoTracker App is designed to revolutionize how individuals receive tornado warnings. By leveraging the capabilities of machine learning with the AlexNet convolutional neural network, the app offers precise and timely tornado detection. Its primary aim is to analyze live weather radar images, identify potential tornado formations, and provide immediate, localized alerts. This proactive approach aims to enhance safety during severe weather conditions, especially during the night when the risk of undetected tornadoes is greatest. The TornadoTracker App is about empowering users with advanced warning, maximizing preparedness and response time for communities worldwide.
+ #  TornadoTracker🌪️
+> The TornadoTracker App is designed to revolutionize how individuals receive tornado warnings. By leveraging the capabilities of machine learning with the AlexNet convolutional neural network, the app offers precise and timely tornado detection. Its primary aim is to analyze live weather radar images, identify potential tornado formations, and provide immediate, localized alerts. This proactive approach aims to enhance safety during severe weather conditions, especially during the night when the risk of undetected tornadoes is greatest. The TornadoTracker App is about empowering users with advanced warning, maximizing preparedness and response time for communities worldwide.
 
 <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Tornadotrackerlogo.png"> </div>
 
@@ -55,20 +54,19 @@ Our approach to tornado detection is rooted in cutting-edge technology. By utili
 - **Visual Insights Through Feature Maps:** 
   - AlexNet provides feature maps, offering a window into what the model prioritizes in predictions.
   - These visualizations aid in understanding and improving model performance.
- 
-## 📈 Our Model's Results:
 
-<details>
-  <summary><h3><strong> 📁 Access Our Dataset & Model: </strong></h3></summary>
+## 📈 TornadoTracker Model Analysis:
 
-  - [TornadoTracker Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
-  - [TorndaoTracker Model Notebook](https://colab.research.google.com/drive/1cv4eTbLzWr-qSuYILD3vsRIQsQOUg6Pd#scrollTo=_b4zIKeW2pgC)
-</details>
+ ### **Performance Summary:**
+  - Accuracy:	93.2%
+  - Loss: 0.42
+
+---
+
 
 ![accplot](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotracker-trainacc-plot.png)
 
 ![lossplot](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotracker-loss.png)
 
-- ### **Performance Summary:**
-  - Accuracy:	93.2%
-  - Loss: 0.42
+
+---
