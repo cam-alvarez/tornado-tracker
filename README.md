@@ -44,10 +44,10 @@ Our approach to tornado detection is rooted in cutting-edge technology. By utili
   - AlexNet, a proven convolutional neural network, classifies live weather radar images.
   - Categorizes images into two distinct groups: tornado and no-tornado.
 - **Data Processing and Training:** 
-  - Model trained on a curated dataset featuring labeled images of diverse weather patterns.
+  - Model trained on a curated dataset.
   - Focuses particularly on identifying the unique signatures of tornadoes.
 - **Advanced Feature Extraction:** 
-  - AlexNet's deep layers are adept at capturing complex patterns in meteorological imagery.
+  - AlexNet's deep layers are adept at capturing complex patterns.
   - These capabilities are crucial for distinguishing tornadoes from other weather phenomena.
 - **Real-Time Analysis and Response:** 
   - The app analyzes live radar feeds continuously, using the trained model for instant detection.
@@ -58,10 +58,17 @@ Our approach to tornado detection is rooted in cutting-edge technology. By utili
  
 ## 📈 Our Model's Results:
 
-### Accuracy Plot -
+<details>
+  <summary><h3><strong> 📁 Access Our Dataset & Model: </strong></h3></summary>
+
+  - [TornadoTracker Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
+  - [TorndaoTracker Model Notebook](https://colab.research.google.com/drive/1cv4eTbLzWr-qSuYILD3vsRIQsQOUg6Pd#scrollTo=_b4zIKeW2pgC)
+</details>
+
 ![accplot](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotracker-trainacc-plot.png)
 
-### Loss Plot - 
 ![lossplot](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotracker-loss.png)
 
-- ### **Access our dataset:** [TornadoTracker Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
+- ### **Performance Summary:**
+  - Accuracy:	93.2%
+  - Loss: 0.42
