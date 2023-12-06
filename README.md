@@ -55,3 +55,13 @@ Our approach to tornado detection is rooted in cutting-edge technology. By utili
 - **Visual Insights Through Feature Maps:** 
   - AlexNet provides feature maps, offering a window into what the model prioritizes in predictions.
   - These visualizations aid in understanding and improving model performance.
+ 
+## 📈 Our Model's Results:
+
+### Accuracy Plot -
+![accplot](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotracker-trainacc-plot.png)
+
+### Loss Plot - 
+![lossplot](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotracker-loss.png)
+
+- ### **Access our dataset:** [TornadoTracker Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
