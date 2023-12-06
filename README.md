@@ -18,7 +18,10 @@ Tornadoes pose a significant threat to safety, especially when they strike unexp
   - This lack of knowledge leads to delayed or missed responses during critical moments.
 - **Global Applicability:** 
   - Numerous regions worldwide are devoid of advanced weather reporting systems.
-  - These areas, however, often have access to live radar images but lack the means to analyze them effectively.
+  - These areas, however, often have access to live radar images but lack the means to analyze and communicate warnings effectively.
+
+ <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Storm-relative-velocity%20radar-images.png"> </div>
+ 
 
 ## 👨‍👩‍👦‍👦 Empowering Communities with Advanced Detection
 In the face of natural disasters like tornadoes, timely and accurate information is crucial. Our product, TornadoTracker, leverages advanced technology to provide real-time, localized tornado warnings, making safety more accessible to everyone, everywhere.
@@ -29,12 +32,10 @@ In the face of natural disasters like tornadoes, timely and accurate information
 - **Enhanced Night Time Safety:** 
   - Special focus on nighttime detection to mitigate the higher risk of casualties.
   - Critical alerts can wake users and provide them with life-saving information.
-- **User-Friendly for All:** 
-  - Simple, intuitive interface that requires no meteorological expertise.
-  - Makes advanced tornado detection accessible to everyone, everywhere.
 - **Global Reach and Application:** 
   - Ideal for regions lacking sophisticated weather forecasting systems.
   - Can leverage existing radar data to provide advanced warnings where none were previously available.
+  <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Storm-relative-velocity%20radar-images.png"> </div>
 
 ## 🤖 Our Solution Using AlexNet: Leveraging Machine Learning for Enhanced Safety
 Our approach to tornado detection is rooted in cutting-edge technology. By utilizing AlexNet, a convolutional neural network, we can classify live weather radar images with high accuracy, enhancing safety and response times in tornado-prone areas.
