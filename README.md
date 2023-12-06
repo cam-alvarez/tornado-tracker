@@ -35,6 +35,7 @@ In the face of natural disasters like tornadoes, timely and accurate information
 - **Global Reach and Application:** 
   - Ideal for regions lacking sophisticated weather forecasting systems.
   - Can leverage existing radar data to provide advanced warnings where none were previously available.
+    
   <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotrackermockup.gif"> </div>
 
 ## 🤖 Our Solution Using AlexNet: Leveraging Machine Learning for Enhanced Safety
