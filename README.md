@@ -4,7 +4,7 @@ The TornadoTracker App is designed to revolutionize how individuals receive torn
 
 <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/Tornadotrackerlogo.png"> </div>
 
-## Tornado Detection Challenge
+## 🚨 Tornado Detection Challenge
 Tornadoes pose a significant threat to safety, especially when they strike unexpectedly. Current systems for tornado detection and warning are often inadequate, leading to delayed responses and increased risk, particularly at night. Our app aims to address these challenges head-on, offering a more effective solution.
 
 - **Limited Localized Warnings:** 
@@ -20,7 +20,7 @@ Tornadoes pose a significant threat to safety, especially when they strike unexp
   - Numerous regions worldwide are devoid of advanced weather reporting systems.
   - These areas, however, often have access to live radar images but lack the means to analyze them effectively.
 
-## Empowering Communities with Advanced Detection
+## 👨‍👩‍👦‍👦 Empowering Communities with Advanced Detection
 In the face of natural disasters like tornadoes, timely and accurate information is crucial. Our product, TornadoTracker, leverages advanced technology to provide real-time, localized tornado warnings, making safety more accessible to everyone, everywhere.
 
 - **Real-Time, Precise Alerts:** 
@@ -36,7 +36,7 @@ In the face of natural disasters like tornadoes, timely and accurate information
   - Ideal for regions lacking sophisticated weather forecasting systems.
   - Can leverage existing radar data to provide advanced warnings where none were previously available.
 
-## 4. Our Solution Using AlexNet: Leveraging Machine Learning for Enhanced Safety
+## 🤖 Our Solution Using AlexNet: Leveraging Machine Learning for Enhanced Safety
 Our approach to tornado detection is rooted in cutting-edge technology. By utilizing AlexNet, a convolutional neural network, we can classify live weather radar images with high accuracy, enhancing safety and response times in tornado-prone areas.
 
 - **Model Overview:** 
