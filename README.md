@@ -35,8 +35,7 @@ In the face of natural disasters like tornadoes, timely and accurate information
 - **Global Reach and Application:** 
   - Ideal for regions lacking sophisticated weather forecasting systems.
   - Can leverage existing radar data to provide advanced warnings where none were previously available.
-    
-  <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotrackermockup%20(1).gif"> </div>
+ <div align="center"> <img src="https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/tornadotrackermockup%20(1).gif""> </div>   
 
 ## 🤖 Our Solution Using AlexNet: Leveraging Machine Learning for Enhanced Safety
 Our approach to tornado detection is rooted in cutting-edge technology. By utilizing AlexNet, a convolutional neural network, we can classify live weather radar images with high accuracy, enhancing safety and response times in tornado-prone areas.
