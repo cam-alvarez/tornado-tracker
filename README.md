@@ -123,10 +123,11 @@ On the other hand, the low-response filters are less sensitive but equally impor
 
 ---
 <details>
-  <summary><h3><strong> 📁 Access Our Dataset, Feature Map Demos & Model: </strong></h3></summary>
+  <summary><h3><strong> 📁 Access Our Report, Dataset, Feature Map Demos & Model: </strong></h3></summary>
 
   - [TornadoTracker Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
   - [TorndaoTracker Model Notebook](https://colab.research.google.com/drive/1cv4eTbLzWr-qSuYILD3vsRIQsQOUg6Pd#scrollTo=MJjTOJXQY7L2)
   - [TornadoTracker Feature Maps(Tornado)](https://colab.research.google.com/drive/1o178C_CcihPKepytHL9mtu-npnC_PWgs#scrollTo=pTdwBSAnfFlx)
   - [TornadoTracker Feature Maps(Thunderstorm)](https://colab.research.google.com/drive/17lBMJOVb6dqtNu20_mx441C-cHlPAXy2#scrollTo=pTdwBSAnfFlx)
+  - [Project Report](https://github.com/cam-alvarez/tornado-tracker/blob/main/assets/TornadoTracker_Report.pdf)
 </details>
